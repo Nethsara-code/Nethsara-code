@@ -25,15 +25,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Explore+my+featured+projects+below!" alt="Project Typing Animation" />
 </p>
 
-<div align="center" style="margin: 20px auto;">
-  <img src="https://img.shields.io/badge/My%20Projects-05%20Completed-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1.5rem;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nethsara&repo=project-1&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nethsara&repo=project-2&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nethsara&repo=project-3&theme=radical" />
-  </div>
-</div>
+<div align="center">
+
+
+
+<h2 align="center">🚀 My Projects</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects%20Completed-3-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+
+
 
 ---
 
