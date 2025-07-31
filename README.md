@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm [Hirusha Nethsara]</h1>
-<h3 align="center">A passionate full-stack developer from [Sri Lanka]</h3>
+<h1 align="center">
+  Hi 👋, I'm Hirusha Nethsara  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist;Web+Developer;Problem+Solver" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-- 🔭 I’m currently working on **[Nethsara-code]**
+- 🔭 I’m currently working on **Nethsara-code**
 
-- 🌱 I’m currently learning **[Tech you’re learning]**
+- 🌱 I’m currently learning **React Native, Next.js, and GraphQL**
 
-- 💬 Ask me about **JavaScript, React, Node.js, etc.**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 
 - 📫 How to reach me **hirushanethsara59@gmail.com**
 
