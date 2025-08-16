@@ -45,7 +45,7 @@
 <h2 align="center">🚀 My Projects</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects%20Completed-3-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-7-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
