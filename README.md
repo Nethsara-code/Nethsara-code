@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Hirusha Nethsara  
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning;Deep+Learning" alt="Typing SVG" />
 </h1>
 
 >
