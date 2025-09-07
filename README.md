@@ -21,15 +21,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
 
-- 🔭 I’m currently working on **Nethsara-code**
+#  Data Science Enthusiast
 
-- 🌱 I’m currently learning **React Native, Next.js, and GraphQL**
+- 🔭 I’m currently working on **Data Science & Machine Learning projects**  
 
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 🌱 I’m currently learning **Python, Pandas, NumPy, Scikit-learn, and Deep Learning**  
 
-- 📫 How to reach me **hirushanethsara59@gmail.com**
+- 💬 Ask me about **Data Analysis, Machine Learning, Regression, Classification, and Data Visualization**  
 
-- ⚡ Fun fact **I love coffee and coding at night!**
+- 📫 How to reach me **hirushanethsara59@gmail.com**  
+
+- ⚡ Fun fact **I love exploring datasets and coding late at night with coffee!**
 
 ---
 
